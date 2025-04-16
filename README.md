@@ -1,11 +1,14 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<p align="center">
-  A passionate full-stack developer building cool stuff with modern tech.
-</p>
+<!-- Gradient background wrapper (visual effect only, GitHub renders HTML blocks) -->
+<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 2rem; border-radius: 12px; color: white;">
+
+<h1>👋 Hey there, I'm <span style="color:#00ffff;">Vitalis</span></h1>
+<p>A full-stack developer on a mission to build clean, scalable, and awesome web experiences.</p>
+
+</div>
 
 ---
 
-### 💻 Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,prisma,html,css,tailwind,git,github,vscode,python" />
@@ -13,43 +16,34 @@
 
 ---
 
-### 🛠️ Tools & Frameworks I Use
+### 💡 About Me
 
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Database & ORM:** PostgreSQL, Prisma  
-- **Dev Tools:** Git, GitHub, VSCode, Figma  
-- **Exploring:** Python 🐍
-
----
-
-### 📌 About Me
-
-- 🔭 Currently working on school management systems and full-stack apps  
-- 🌱 Learning more about system design and exploring Python  
-- 💬 Ask me about Prisma, PostgreSQL, or anything full-stack  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- 🧠 Fun Fact: I love clean code and great UI/UX  
+- 🔭 Working on school management systems and full-stack web apps  
+- 🌱 Currently learning Python and advanced backend design  
+- 💬 Ask me about Prisma, PostgreSQL, and full-stack development  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vitalis-maina-56b2a9230)  
+- ⚡ Fun fact: I obsess over great UI/UX and efficient architecture
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitalis058&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis058&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### ☕ Let’s Connect
+### 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Vitalis058"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vitalis-maina-56b2a9230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<div align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+</div>
