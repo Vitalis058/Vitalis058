@@ -11,7 +11,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,prisma,html,css,tailwind,git,github,vscode,java,spring" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,prisma,html,css,tailwind,git,github,vscode,go,python,nestjs" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ### 💡 About Me
 
 - 🔭 Working on school management systems and full-stack web apps  
-- 🌱 Currently learning Java, Spring, and Spring Boot  
+- 🌱 Currently learning Python  
 - 💬 Ask me about Prisma, PostgreSQL, and full-stack development  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vitalis-maina-56b2a9230)  
 - ⚡ Fun fact: I obsess over great UI/UX and efficient architecture
@@ -48,6 +48,8 @@
   <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 </div>  
 
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 🌐 Frontend  
@@ -63,9 +65,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗃️ Database & ORM  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,6 +79,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📚 Currently Learning  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
