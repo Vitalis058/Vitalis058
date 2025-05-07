@@ -1,7 +1,7 @@
 <!-- Gradient background wrapper (visual effect only, GitHub renders HTML blocks) -->
 <div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 2rem; border-radius: 12px; color: white;">
 
-<h1>👋 Hey there, I'm <span style="color:#00ffff;">Vitalis</span></h1>
+<h1>👋 Hey there, I'm <span style="color:#00ffff;">Vitalis Maina</span></h1>
 <p>A full-stack developer on a mission to build clean, scalable, and awesome web experiences.</p>
 
 </div>
