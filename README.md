@@ -91,7 +91,7 @@ const vitalis = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis058&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis058&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vitalis058&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ffff&line=00ffff&point=c9d1d9" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Vitalis058&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=c9d1d9" />
 
 </div>
 
@@ -125,9 +125,12 @@ const vitalis = {
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-### 📈 Contribution Graph
+### ⚡ Recent Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitalis058&custom_title=Vitalis%27s%20Contribution%20Graph&bg_color=0D1117&color=00ffff&line=00ffff&point=c9d1d9&area=true&hide_border=true)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> 💡 _Tip: To show recent activity here, set up the [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme) action!_
 
 </div>
 
