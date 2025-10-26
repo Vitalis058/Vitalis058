@@ -125,9 +125,9 @@ const vitalis = {
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-### 🐍 Contribution Snake
+### 📈 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/Vitalis058/Vitalis058/output/github-contribution-grid-snake-dark.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitalis058&custom_title=Vitalis%27s%20Contribution%20Graph&bg_color=0D1117&color=00ffff&line=00ffff&point=c9d1d9&area=true&hide_border=true)
 
 </div>
 
