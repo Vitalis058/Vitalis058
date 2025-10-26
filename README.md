@@ -1,7 +1,8 @@
 <div align="center">
-  <!-- Animated Header -->
-  <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=200&section=header&text=Vitalis%20Maina&fontSize=60&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=200&section=header&text=Vitalis%20Maina&fontSize=60&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+
 </div>
 
 <div align="center">
@@ -22,19 +23,19 @@
 
 ```typescript
 const vitalis = {
-  location: "Nairobi, Kenya 🇰🇪",
-  currentFocus: "Building scalable school management systems",
-  learning: ["C# 💜", "Advanced System Design"],
-  expertise: ["Full-Stack Development", "Database Architecture", "RESTful APIs"],
-  passions: ["Clean Code", "Great UX", "Performance Optimization"],
-  motto: "Code with purpose, design with empathy"
+    location: "Nairobi, Kenya 🇰🇪",
+    currentFocus: "Building scalable school management systems",
+    learning: ["Python 🐍", "C# 💜", "Advanced System Design"],
+    expertise: ["Full-Stack Development", "Database Architecture", "RESTful APIs"],
+    passions: ["Clean Code", "Great UX", "Performance Optimization"],
+    motto: "Code with purpose, design with empathy"
 };
 ```
 
 <div align="center">
 
 🔭 **Currently Working On:** School management systems & enterprise web applications  
-🌱 **Learning Journey:** C# and advanced backend patterns  
+🌱 **Learning Journey:** Python, C#, and advanced backend patterns  
 💡 **Ask Me About:** Prisma, PostgreSQL, Next.js, and full-stack architecture  
 ⚡ **Fun Fact:** I refactor code for fun (yes, really!)
 
@@ -61,6 +62,7 @@ const vitalis = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Database & ORM**
@@ -119,7 +121,7 @@ const vitalis = {
 
 <div align="center">
 
-## 💭 Developer Wisdom
+### 💭 Developer Wisdom
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
@@ -127,34 +129,16 @@ const vitalis = {
 
 ![Snake animation](https://raw.githubusercontent.com/Vitalis058/Vitalis058/output/github-contribution-grid-snake-dark.svg)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vitalis058&color=00ffff&style=for-the-badge)
 
-</div>
-
----
-
-<div align="center">
-
-## ⚙️ Dynamic Updates
-
-If you like, I can generate a set of **badge URLs and GitHub Action workflows** so your README automatically updates with:
-- 📰 Your latest blog posts or portfolio items  
-- 📈 Your current learning progress (e.g., C# mastery tracker)  
-- 📅 Weekly activity insights  
-- 💡 Dynamic “currently building” or “tech in focus” sections  
-
-Would you like me to build that?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</div>
-
-
